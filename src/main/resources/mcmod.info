@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nuclearWorkshop",
+  "name": "Nuclear Workshop",
+  "description": "",
+  "version": "0.0.1a",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CubeStorm","extremebuilder03"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
