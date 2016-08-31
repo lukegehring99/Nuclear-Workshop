@@ -4,7 +4,7 @@
   "name": "Nuclear Workshop",
   "description": "",
   "version": "0.0.1a",
-  "mcversion": "1.10.2",
+  "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["CubeStorm","extremebuilder03"],
